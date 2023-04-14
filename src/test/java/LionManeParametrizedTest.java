@@ -22,7 +22,6 @@ public class LionManeParametrizedTest {
         return new Object[][]{
                 {"Самец", Boolean.TRUE},
                 {"Самка", Boolean.FALSE},
-
         };
     }
 
